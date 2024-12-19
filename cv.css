@@ -2,7 +2,7 @@
 
     background-color: black;
     width: 250px;
-    height: 1150px;
+    height: 180vh;
     text-align: center;
     padding: 30px;
     align-content: end;
@@ -169,6 +169,14 @@ li {
 
     font-family: Monsterrat Light, sans-serif;
 }
+
+.mail_and_phone{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 @media (min-width: 320px) and (max-width: 720px){
 
